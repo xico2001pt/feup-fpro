@@ -10,7 +10,7 @@ Este repositório contém:
 - Python STL
 - Testes
 - Exercícios
-- [***Projeto***](https://github.com/xico2001pt/flashgordon-atari)
+- [Projeto](https://github.com/xico2001pt/flashgordon-atari)
 
 ## Grades
 
