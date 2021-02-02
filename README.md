@@ -10,9 +10,10 @@ Este repositório contém:
 - Python STL
 - Testes
 - Exercícios
-- [Projeto](https://github.com/xico2001pt/flashgordon-atari)
+- Projeto
+   - [New Flash Gordon](https://github.com/xico2001pt/flashgordon-atari)
 
-## Grades
+## Classificações
 
 Final = 0.2 * MÁXIMO(LE & RE, Projeto) + 0.5 * PE + 0.3 * TE
 
